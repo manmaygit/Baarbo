@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:log_out_page/constants.dart';
-import 'package:log_out_page/custom_container.dart';
-import 'package:log_out_page/red_button.dart';
+import 'constants.dart';
+import 'custom_container.dart';
+import 'red_button.dart';
 import 'bottom_bar.dart';
 
 class SalonPage extends StatelessWidget {
